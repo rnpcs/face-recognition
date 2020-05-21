@@ -1,0 +1,8 @@
+*.ipynm
+keras-vggface/
+*.ipynb
+*.pyc
+*.jpg
+data_/
+eval/
+examples/
